@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 Sobre mi:
 ¡Hola! Soy un apasionado desarrollador web Full Stack e ingeniero de software de 21 años, nacido en Perú 🇵🇪. Desde que comencé en el mundo de la programación, descubrí que crear soluciones digitales no solo es mi vocación, sino también mi motor diario.<br><br>Me especializo en el desarrollo de sistemas web modernos, aplicando buenas prácticas de código, diseño limpio y tecnologías actuales. Siempre estoy buscando aprender más, crecer profesionalmente y asumir nuevos desafíos que me permitan destacar y aportar valor real a los proyectos en los que participo.<br><br>Soy una persona proactiva, con mucha iniciativa y con una enorme sed de conocimiento. Me encanta formar parte de equipos donde pueda seguir aprendiendo, compartir ideas y, sobre todo, construir productos que marquen la diferencia.<br><br>🚀 ¿Buscas a alguien comprometido, con energía, y muchas ganas de aportar a tu proyecto? ¡Conversemos!
 
 
